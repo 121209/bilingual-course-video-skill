@@ -1,0 +1,6 @@
+interface:
+  display_name: "双语课程视频翻译"
+  short_description: "翻译前先交互确认字幕字号，再按规范做中英双语课程成片"
+  default_prompt: "使用 $bilingual-course-video 翻译这一讲。先按 skill 向我询问字幕字号并给出参考建议，确认后再开始翻译。"
+policy:
+  allow_implicit_invocation: true
