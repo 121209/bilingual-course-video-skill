@@ -1,0 +1,10 @@
+*.mp4
+*.mkv
+*.webm
+*.ass
+*.srt
+*.pyc
+.DS_Store
+export/
+src/
+__pycache__/
